@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "Which device is required for the internet connection?",
+        option1: "Modem",
+        option2: "LAN",
+        option3: "Router",
+        option4: "penDrive",
+        ans: 1,
+    },
+    {
+        question: "Which programming language is known for its flexibility and ease of learning?",
+        option1: "Java",
+        option2: "Python",
+        option3: "C++",
+        option4: "JavaScript",
+        ans: 2,
+    },
+    {
+        question: "What is the capital city of France?",
+        option1: "Berlin",
+        option2: "London",
+        option3: "Paris",
+        option4: "Rome",
+        ans: 3,
+    },
+    {
+        question: "Which planet is known as the 'Red Planet'?",
+        option1: "Venus",
+        option2: "Mars",
+        option3: "Jupiter",
+        option4: "Saturn",
+        ans: 2,
+    },
+    {
+        question: "Who is the author of 'To Kill a Mockingbird'?",
+        option1: "J.K. Rowling",
+        option2: "Harper Lee",
+        option3: "Ernest Hemingway",
+        option4: "George Orwell",
+        ans: 2,
+    },
+];
